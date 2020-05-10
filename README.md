@@ -19,3 +19,6 @@ All suggestions are welcomed. Enjoy the app!! 👍
 <img src="https://github.com/rvvarasdiya/flutteranimations/raw/master/Sign Up.png" title="Adhikaar News" alt="Adhikaar News">
 
 
+## 📝 Contact 
+
+rajvarasdiya535@gmail.com
