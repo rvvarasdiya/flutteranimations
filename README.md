@@ -11,9 +11,9 @@ All suggestions are welcomed. Enjoy the app!! 👍
 
 
 ## 📥 Try-It-Out
+<img src="https://github.com/rvvarasdiya/flutteranimations/raw/master/App Demo.gif" title="Adhikaar News" alt="Adhikaar News">
 
 ## 📱 Take A Tour
-<img src="https://github.com/rvvarasdiya/flutteranimations/raw/master/App Demo.gif" title="Adhikaar News" alt="Adhikaar News">
 <img src="https://github.com/rvvarasdiya/flutteranimations/raw/master/Home Screen.png" title="Adhikaar News" alt="Adhikaar News">
 <img src="https://github.com/rvvarasdiya/flutteranimations/raw/master/Sign In.png" title="Adhikaar News" alt="Adhikaar News">
 <img src="https://github.com/rvvarasdiya/flutteranimations/raw/master/Sign Up.png" title="Adhikaar News" alt="Adhikaar News">
