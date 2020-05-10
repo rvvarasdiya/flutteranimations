@@ -12,9 +12,9 @@ All suggestions are welcomed. Enjoy the app!! 👍
 
 ## 📥 Try-It-Out
 
-
-
 ## 📱 Take A Tour
+
+<img src="https://github.com/rvvarasdiya/flutteranimations/raw/master/Home Screen.png" title="Adhikaar News" alt="Adhikaar News">
 
 
 
