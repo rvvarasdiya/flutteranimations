@@ -42,18 +42,4 @@ Widget getAuth(String imageName, {EdgeInsetsGeometry margin}) {
   );
 }
 
-class SizeFixed{
-  static final  GlobalKey<NavigatorState> key = GlobalKey<NavigatorState>();
-}
-
-screenWidth(BuildContext context) => MediaQuery.of(context).size.width;
-
-
-
-dynamic getSize(double px) {
-  return px *
-      (screenWidth(
-          SizeFixed.key.currentState.overlay.context) /
-          414);
-}
 
