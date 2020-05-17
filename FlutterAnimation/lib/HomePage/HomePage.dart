@@ -54,8 +54,8 @@ class Screen2 extends StatelessWidget {
                             ),
                           ),
                           Container(
-                            height: getSize(40),
-                            width: getSize(40),
+                            height:40,
+                            width: 40,
                             margin: EdgeInsets.only(top: 50, right: 20),
                             decoration: BoxDecoration(
                               shape: BoxShape.circle,
